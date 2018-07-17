@@ -1,5 +1,5 @@
 ﻿param(
-    [string]$title,
+    [string]$title='Warnung',
     [string]$text='nix zu sagen'
 )
 
